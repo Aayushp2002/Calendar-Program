@@ -556,18 +556,6 @@ void executeProgram()
 	displayBorder();
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 int main()
 {
 	//program header
